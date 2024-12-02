@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rober\\Documents\\Code Learning\\aoc\\day_02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE3FE1D-A4FF-4E50-8634-31EB6DE333D5}|day_02\\day_02.vcxproj|C:\\Users\\rober\\Documents\\Code Learning\\aoc\\day_02\\day_02\\day_02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CEE3FE1D-A4FF-4E50-8634-31EB6DE333D5}|day_02\\day_02.vcxproj|solutionrelative:day_02\\day_02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE3FE1D-A4FF-4E50-8634-31EB6DE333D5}|day_02\\day_02.vcxproj|C:\\Users\\rober\\Documents\\Code Learning\\aoc\\day_02\\day_02\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CEE3FE1D-A4FF-4E50-8634-31EB6DE333D5}|day_02\\day_02.vcxproj|solutionrelative:day_02\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "day_02.cpp",
+              "DocumentMoniker": "C:\\Users\\rober\\Documents\\Code Learning\\aoc\\day_02\\day_02\\day_02.cpp",
+              "RelativeDocumentMoniker": "day_02\\day_02.cpp",
+              "ToolTip": "C:\\Users\\rober\\Documents\\Code Learning\\aoc\\day_02\\day_02\\day_02.cpp",
+              "RelativeToolTip": "day_02\\day_02.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-02T09:43:53.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "input.txt",
+              "DocumentMoniker": "C:\\Users\\rober\\Documents\\Code Learning\\aoc\\day_02\\day_02\\input.txt",
+              "RelativeDocumentMoniker": "day_02\\input.txt",
+              "ToolTip": "C:\\Users\\rober\\Documents\\Code Learning\\aoc\\day_02\\day_02\\input.txt",
+              "RelativeToolTip": "day_02\\input.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANMDAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-02T09:48:29.687Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿  day_02.cpp
+C:\Users\rober\Documents\Code Learning\aoc\day_02\day_02\day_02.cpp(20,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  day_02.vcxproj -> C:\Users\rober\Documents\Code Learning\aoc\day_02\x64\Debug\day_02.exe
